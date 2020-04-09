@@ -6,12 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-generatorConfig" />
         <module name="imooc-videos-dev-service" />
         <module name="imooc-videos-dev-mapper" />
         <module name="imooc-videos-dev-common" />
-        <module name="imooc-videos-dev-pojo" />
         <module name="imooc-videos-dev-mini-api" />
-        <module name="mybatis-generatorConfig" />
+        <module name="imooc-videos-dev-pojo" />
       </profile>
     </annotationProcessing>
   </component>

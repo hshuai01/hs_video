@@ -1,0 +1,11 @@
+com\imooc\controller\HelloWorldController.class
+com\imooc\Swagger2.class
+com\imooc\controller\RegistLoginController.class
+com\imooc\controller\VideoController.class
+com\imooc\WarStartApplication.class
+com\imooc\controller\BgmController.class
+com\imooc\Application.class
+com\imooc\controller\BasicController.class
+com\imooc\WebMvcConfig.class
+com\imooc\controller\interceptor\MiniInterceptor.class
+com\imooc\controller\UserController.class
